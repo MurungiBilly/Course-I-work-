@@ -1,1 +1,1 @@
-# Course-I-work-
+it contains slider images and a logo 
